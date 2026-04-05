@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SimpleWebCrawler": {
+      "commandName": "Project",
+      "commandLineArgs": "https://crawlme.monzo.com/"
+    }
+  }
+}

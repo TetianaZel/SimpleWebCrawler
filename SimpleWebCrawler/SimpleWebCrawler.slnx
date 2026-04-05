@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Tests/">
+    <Project Path="../SimpleWebCrawler.Tests.Integration/SimpleWebCrawler.Tests.Integration.csproj" Id="d4d4c329-d066-4d3d-a005-163dd8ffec61" />
+    <Project Path="../SimpleWebCrawler.Tests.Unit/SimpleWebCrawler.Tests.Unit.csproj" />
+  </Folder>
+  <Project Path="SimpleWebCrawler.csproj" />
+</Solution>
